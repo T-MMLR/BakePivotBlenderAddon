@@ -1,0 +1,1 @@
+# BakePivotBlenderAddon
